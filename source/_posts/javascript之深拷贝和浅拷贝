@@ -1,0 +1,12 @@
+---
+title: javascript之深拷贝浅拷贝
+date: 2017-07-11 16:27:17
+tags: javascript copy 
+categories: tech
+---
+
+如果要评童年最值得骄傲的一件事，那必须是早上三点起床背单词和古诗。即使不学习英语快10个年头，童年的底子到现在也受益。
+
+
+### Array.prototype.slice Array.prototype.concat
+
