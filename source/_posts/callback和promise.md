@@ -1,5 +1,5 @@
 ---
-title: 回掉函数和promise
+title: callback和promise
 date: 2017-03-04 18:38:48
 tags:
 ---

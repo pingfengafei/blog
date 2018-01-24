@@ -2,8 +2,9 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "author" : "pingefngafei",
   "hexo": {
-    "version": "3.3.7"
+    "version": "3.3.8"
   },
   "dependencies": {
     "hexo": "^3.2.0",
