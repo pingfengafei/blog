@@ -1,6 +1,8 @@
+---
 title: gitignore无法ignore问题解决 && es6的import带不带{}
 date: 2015-11-02 15:56:47
-
+tags:
+---
 
 ###.gitignore无法ignore问题解决 && es6的import带不带{}
 webstorm会给项目自动生成一个.idea文件夹，第一次创建项目并上传到github，没有注意到.idea文件也被上传上去。再次编辑文件并上传时发现了.idea文件也做了修改：

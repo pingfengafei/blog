@@ -1,5 +1,10 @@
-title: Hello gitHub
 ---
+title: Hello gitHub
+date: 2015-10-1 08:33:35
+tags:
+---
+
+
 Welcome to [pingfengafei](http://pingfengafei.github.io/)‘s GitHub blog. Thanks GitHub gives me too much to learn.
 
 ##写在最前面
